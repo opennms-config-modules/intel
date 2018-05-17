@@ -1,5 +1,5 @@
 <!-- Start of mib2events auto-generated data for MIB: INTEL-LAN-ADAPTERS-MIB -->
-<events xmlns="http://xmlns.opennms.org/xsd/eventconf">
+<events xmlns="https://xmlns.opennms.org/xsd/eventconf">
     <event>
         <mask>
             <maskelement>
